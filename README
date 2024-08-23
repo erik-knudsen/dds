@@ -1,4 +1,8 @@
-We compile the DLL for windows using the Qt framework. Source files are just copies of Bo Haglunds Double Dummy Solver ver. 2.9.1. We use the STL threading system. Defines are DDS_LIBRARY and DS_THREADS_STL. the generated DLL is dds.dll.
+Build for the Qt framework of Bo Haglunds Double Dummy Solver ver. 2.9.1.
+DLL for windows and static library for Android.
+Source files are just copies of Bo Haglunds Double Dummy Solver ver. 2.9.1.
+The STL threading system is build. 
+Defines are DDS_LIBRARY and DS_THREADS_STL.
 
 Below is a copy of Bo Haglunds INSTALL intructions for ver. 2.9.1:
 
